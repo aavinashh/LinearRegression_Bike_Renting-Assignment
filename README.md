@@ -21,10 +21,6 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
